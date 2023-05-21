@@ -90,6 +90,7 @@ const CompaniesBar = props => {
       </button>
     );
   };
+  
 
   return (
     <div
